@@ -1,4 +1,4 @@
-const DISCORD_TOKEN = process.env[2]
+const DISCORD_TOKEN = process.argv[2]
 const Discord = require('discord.js')
 const client = new Discord.Client({
     fetchAllMembers: false,
