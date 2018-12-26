@@ -1,0 +1,26 @@
+{
+  "name": "selfbot-streaming",
+  "version": "1.0.0",
+  "description": "A selfbot that detecting the streaming stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iHDeveloper/selfbot-streaming.git"
+  },
+  "keywords": [
+    "Selfbot",
+    "Streaming"
+  ],
+  "author": "iHDeveloper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iHDeveloper/selfbot-streaming/issues"
+  },
+  "homepage": "https://github.com/iHDeveloper/selfbot-streaming#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
